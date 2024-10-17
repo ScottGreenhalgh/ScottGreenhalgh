@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm @ScottGreenhalgh👋
 
 <!--
 **ScottGreenhalgh/ScottGreenhalgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👀 I’m interested in Gaming, Steak, and all things Tech
+🎓 I’m currently working on developing my skillset to reach new horizons 
+🌱 I’m currently learning web development
+💞️ I’m looking to collaborate on all the fun projects... Seriously. Hit me up!
+📫 How to reach me: https://www.linkedin.com/in/scott-greenhalgh-288575212/
+🤙 Checkout my portfolio: https://scott-greenhalgh.vercel.app/
+🎲 After all that reading you deserve to play a game... play this one https://budget-bakery.onrender.com/
