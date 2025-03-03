@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 🌱 I’m actively learning new web development tools
 - 💞️ I’m looking to collaborate on all the fun projects... Seriously. Hit me up!
 - 📫 How to reach me: https://www.linkedin.com/in/scott-greenhalgh-288575212/
-- 🤙 Checkout my portfolio: https://scott-greenhalgh.vercel.app/
+- 🤙 Checkout my portfolio: https://scott-greenhalgh.vercel.app/about
 - 🎲 After all that reading you deserve to play a game... play this one https://budget-bakery.onrender.com/
